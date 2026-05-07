@@ -7,5 +7,7 @@ My main & current tech stack is React & React Native, Next.js, TailWind & Native
 
 Fun Facts:
 I Study & Practice Engineering
+
 I have a pet gecko
+
 SAO is one of my favorite animes
