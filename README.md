@@ -6,6 +6,7 @@ I design solution based platforms for worldwide problems.
 My main & current tech stack is React & React Native, Next.js, TailWind & NativeWind, Node.js, NestJS/Fastify, Figma.
 
 Fun Facts:
+
 I Study & Practice Engineering
 
 I have a pet gecko
