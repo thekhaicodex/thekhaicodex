@@ -1,7 +1,5 @@
 ## What's up 👋🏾
 
-<!--
-**thekhaicodex/thekhaicodex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm Khalil, a developer based in Chicago.
 I design solution based platforms for worldwide problems.
